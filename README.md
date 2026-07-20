@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0941-valid-mountain-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0941-valid-mountain-array) |
+| [1260-shift-2d-grid](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0392-is-subsequence) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
