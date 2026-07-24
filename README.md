@@ -90,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
