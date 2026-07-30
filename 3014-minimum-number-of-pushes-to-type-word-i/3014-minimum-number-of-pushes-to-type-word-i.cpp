@@ -1,10 +1,22 @@
 class Solution {
 public:
     int minimumPushes(string word) {
-       int count=0; 
-       for(int i=0;i<word.size();i++){
-        count= count+(i/8)+1;
-       }
-       return count;
+     int count=0;
+     for(int i=0;i<word.size();i++){
+        if(i<8){
+            count++;
+        }
+         else if(i<16){
+              count=count+2;
+
+        }
+        else if(i<24){
+            count=count+3;
+        }
+         else{
+            count=count+4;
+         }
+     }
+     return count;
     }
 };
