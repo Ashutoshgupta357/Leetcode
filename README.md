@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0176-second-highest-salary) |
 | [0584-find-customer-referee](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0584-find-customer-referee) |
 | [0627-swap-sex-of-employees](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0627-swap-sex-of-employees) |
+| [1873-calculate-special-bonus](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1873-calculate-special-bonus) |
 ## Combinatorics
 |  |
 | ------- |
