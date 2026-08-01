@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2460-apply-operations-to-an-array) |
+| [2465-number-of-distinct-averages](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2460-apply-operations-to-an-array) |
+| [2465-number-of-distinct-averages](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [2465-number-of-distinct-averages](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Binary Search
 |  |
@@ -106,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2465-number-of-distinct-averages](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
