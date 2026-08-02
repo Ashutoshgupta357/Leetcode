@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0191-number-of-1-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Database
 |  |
@@ -182,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0844-backspace-string-compare](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0844-backspace-string-compare) |
 | [2000-reverse-prefix-of-word](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
