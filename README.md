@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1406-stone-game-iii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0941-valid-mountain-array) |
 | [1260-shift-2d-grid](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1406-stone-game-iii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1572-matrix-diagonal-sum](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0392-is-subsequence) |
+| [1406-stone-game-iii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1406-stone-game-iii) |
 ## Matrix
 |  |
 | ------- |
@@ -188,4 +191,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0191-number-of-1-bits) |
+## Minimax
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1406-stone-game-iii) |
+## Game Theory
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1406-stone-game-iii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1406-stone-game-iii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
