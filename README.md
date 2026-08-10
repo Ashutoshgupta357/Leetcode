@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3379-transformed-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3379-transformed-array) |
 | [3467-transform-array-by-parity](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3731-find-missing-elements](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3731-find-missing-elements) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2460-apply-operations-to-an-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2460-apply-operations-to-an-array) |
+| [3379-transformed-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3379-transformed-array) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
