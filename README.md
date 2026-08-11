@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2465-number-of-distinct-averages) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3379-transformed-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3379-transformed-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2465-number-of-distinct-averages) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2465-number-of-distinct-averages) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
