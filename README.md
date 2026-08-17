@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0584-find-customer-referee](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0584-find-customer-referee) |
 | [0627-swap-sex-of-employees](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0627-swap-sex-of-employees) |
 | [1667-fix-names-in-a-table](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1667-fix-names-in-a-table) |
+| [1729-find-followers-count](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1729-find-followers-count) |
 | [1873-calculate-special-bonus](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1873-calculate-special-bonus) |
 ## Combinatorics
 |  |
