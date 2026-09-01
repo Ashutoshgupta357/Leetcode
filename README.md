@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 | [3467-transform-array-by-parity](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3731-find-missing-elements) |
@@ -246,4 +247,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0319-bulb-switcher) |
+## Tree
+|  |
+| ------- |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 <!---LeetCode Topics End-->
