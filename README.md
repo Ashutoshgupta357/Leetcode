@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0031-next-permutation) |
+| [0046-permutations](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0046-permutations) |
 | [0455-assign-cookies](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0455-assign-cookies) |
 | [0806-number-of-lines-to-write-string](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0905-sort-array-by-parity](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -273,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3903-smallest-stable-index-i) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
