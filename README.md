@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0319-bulb-switcher) |
+| [0836-rectangle-overlap](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0836-rectangle-overlap) |
 | [1406-stone-game-iii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -284,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0047-permutations-ii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
