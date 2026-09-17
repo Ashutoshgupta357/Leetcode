@@ -1,5 +1,4 @@
-# Write your MySQL query statement below
-# Write your MySQL query statement below
+
 SELECT p.product_name,
        SUM(o.unit) AS unit
 FROM Products p
