@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-transformed-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3379-transformed-array) |
 | [3467-transform-array-by-parity](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
