@@ -1,7 +1,7 @@
 class Solution {
 public:
     int smallestIndex(vector<int>& nums) {
-        int m=INT_MAX;
+        
         for(int i=0;i<nums.size();i++){
             int x=nums[i];
             int y=0;
@@ -10,15 +10,12 @@ public:
                 x=x/10;
             }
             if(y==i){
-                m=min(m,y);
+                return i;
             }
 
         }
-        if(m==INT_MAX){
+       
             return -1;
-        }
-        else{
-            return m;
-        }
+      
     }
 };
