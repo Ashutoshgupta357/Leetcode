@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0917-reverse-only-letters) |
 | [1544-make-the-string-great](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1544-make-the-string-great) |
+| [1556-thousand-separator](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1556-thousand-separator) |
 | [1768-merge-strings-alternately](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2000-reverse-prefix-of-word](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2000-reverse-prefix-of-word) |
