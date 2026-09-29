@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0941-valid-mountain-array) |
 | [1260-shift-2d-grid](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1406-stone-game-iii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1406-stone-game-iii) |
 | [1512-number-of-good-pairs](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1550-three-consecutive-odds) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2465-number-of-distinct-averages) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [2029-stone-game-ix](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2833-furthest-point-from-origin) |
