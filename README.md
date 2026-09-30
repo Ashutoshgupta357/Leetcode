@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0804-unique-morse-code-words](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0844-backspace-string-compare](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0917-reverse-only-letters) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0455-assign-cookies](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0455-assign-cookies) |
 | [0566-reshape-the-matrix](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0804-unique-morse-code-words](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0905-sort-array-by-parity](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0383-ransom-note) |
+| [0804-unique-morse-code-words](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1512-number-of-good-pairs) |
