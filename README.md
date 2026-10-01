@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2833-furthest-point-from-origin](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3174-clear-digits](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3794-reverse-string-prefix](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3794-reverse-string-prefix) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3174-clear-digits](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3174-clear-digits) |
 | [3379-transformed-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3379-transformed-array) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1544-make-the-string-great](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [3174-clear-digits](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3174-clear-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
