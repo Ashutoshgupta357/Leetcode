@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1748-sum-of-unique-elements](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1512-number-of-good-pairs) |
+| [1748-sum-of-unique-elements](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
+| [1748-sum-of-unique-elements](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1748-sum-of-unique-elements) |
 | [2029-stone-game-ix](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2029-stone-game-ix) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
