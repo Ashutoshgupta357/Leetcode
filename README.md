@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2833-furthest-point-from-origin](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2833-furthest-point-from-origin) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1260-shift-2d-grid](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2138-divide-a-string-into-groups-of-size-k](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2460-apply-operations-to-an-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2460-apply-operations-to-an-array) |
