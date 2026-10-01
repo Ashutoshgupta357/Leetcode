@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 ## Stack
 |  |
 | ------- |
