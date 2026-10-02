@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0229-majority-element-ii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0455-assign-cookies) |
 | [0566-reshape-the-matrix](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0645-set-mismatch](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0645-set-mismatch) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0645-set-mismatch](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0645-set-mismatch) |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0047-permutations-ii) |
+| [0229-majority-element-ii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0905-sort-array-by-parity) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -404,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
