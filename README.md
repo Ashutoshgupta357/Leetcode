@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0821-shortest-distance-to-a-character) |
+| [0867-transpose-matrix](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0867-transpose-matrix) |
 | [0905-sort-array-by-parity](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0941-valid-mountain-array) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0844-backspace-string-compare](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0566-reshape-the-matrix](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0867-transpose-matrix](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1572-matrix-diagonal-sum](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
