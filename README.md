@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2029-stone-game-ix) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2525-categorize-box-according-to-criteria](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2525-categorize-box-according-to-criteria) |
 | [2544-alternating-digit-sum](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2544-alternating-digit-sum) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
