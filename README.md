@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2029-stone-game-ix) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2928-distribute-candies-among-children-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2928-distribute-candies-among-children-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -233,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2465-number-of-distinct-averages) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
