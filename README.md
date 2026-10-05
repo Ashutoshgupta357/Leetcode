@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2029-stone-game-ix) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2169-count-operations-to-obtain-zero) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2928-distribute-candies-among-children-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2928-distribute-candies-among-children-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0455-assign-cookies) |
 | [2029-stone-game-ix](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2706-buy-two-chocolates](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
