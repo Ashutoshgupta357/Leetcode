@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2460-apply-operations-to-an-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3794-reverse-string-prefix](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3798-largest-even-number) |
 | [3813-vowel-consonant-score](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3813-vowel-consonant-score) |
@@ -350,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Database
 |  |
 | ------- |
