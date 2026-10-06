@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2404-most-frequent-even-element](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2404-most-frequent-even-element) |
 | [2418-sort-the-people](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2418-sort-the-people) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 ## Bit Manipulation
 |  |
 | ------- |
