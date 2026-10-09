@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3174-clear-digits) |
 | [3248-snake-in-matrix](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3248-snake-in-matrix) |
 | [3340-check-balanced-string](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3340-check-balanced-string) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
@@ -353,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2833-furthest-point-from-origin](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3467-transform-array-by-parity](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
