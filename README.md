@@ -207,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2678-number-of-senior-citizens](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2706-buy-two-chocolates](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2706-buy-two-chocolates) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1291-sequential-digits](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1291-sequential-digits) |
 | [1925-count-square-sum-triples](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1925-count-square-sum-triples) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2928-distribute-candies-among-children-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2928-distribute-candies-among-children-i) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
