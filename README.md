@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3894-traffic-signal-color](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3894-traffic-signal-color) |
 | [3908-valid-digit-number](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3908-valid-digit-number) |
 | [3945-digit-frequency-score](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3945-digit-frequency-score) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## Two Pointers
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3884-first-matching-character-from-both-ends](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3894-traffic-signal-color) |
 | [3931-check-adjacent-digit-differences](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3931-check-adjacent-digit-differences) |
+| [3986-number-of-elapsed-seconds-between-two-times](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3986-number-of-elapsed-seconds-between-two-times) |
 ## String Matching
 |  |
 | ------- |
