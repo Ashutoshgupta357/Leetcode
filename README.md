@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-smallest-index-with-equal-value](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2057-smallest-index-with-equal-value) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2283-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2283-check-if-number-has-equal-digit-count-and-digit-value) |
@@ -403,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3033-modify-the-matrix](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3033-modify-the-matrix) |
