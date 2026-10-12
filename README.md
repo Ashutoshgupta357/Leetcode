@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3689-maximum-total-subarray-value-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3731-find-missing-elements) |
+| [3866-first-unique-even-element](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3866-first-unique-even-element) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3903-smallest-stable-index-i) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3678-smallest-absent-positive-greater-than-average](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3678-smallest-absent-positive-greater-than-average) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3731-find-missing-elements) |
+| [3866-first-unique-even-element](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3866-first-unique-even-element) |
 | [3945-digit-frequency-score](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3945-digit-frequency-score) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Ashutoshgupta357/Leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Binary Search
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3467-transform-array-by-parity](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3591-check-if-any-element-has-prime-frequency) |
+| [3866-first-unique-even-element](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3866-first-unique-even-element) |
 | [4065-rearrange-array-by-removing-distinct-values](https://github.com/Ashutoshgupta357/Leetcode/tree/master/4065-rearrange-array-by-removing-distinct-values) |
 ## Dynamic Programming
 |  |
