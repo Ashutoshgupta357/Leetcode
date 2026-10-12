@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0319-bulb-switcher](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0319-bulb-switcher) |
 | [0728-self-dividing-numbers](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0836-rectangle-overlap) |
+| [0989-add-to-array-form-of-integer](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1137-n-th-tribonacci-number](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-valid-mountain-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0941-valid-mountain-array) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1260-shift-2d-grid) |
