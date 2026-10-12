@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2678-number-of-senior-citizens](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2706-buy-two-chocolates](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2798-number-of-employees-who-met-the-target](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
