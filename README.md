@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2248-intersection-of-multiple-arrays) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2319-check-if-matrix-is-x-matrix) |
