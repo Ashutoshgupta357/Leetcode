@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1768-merge-strings-alternately) |
+| [1773-count-items-matching-a-rule](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1816-truncate-sentence) |
 | [1844-replace-all-digits-with-characters](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1844-replace-all-digits-with-characters) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1748-sum-of-unique-elements](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1748-sum-of-unique-elements) |
+| [1773-count-items-matching-a-rule](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1773-count-items-matching-a-rule) |
 | [1816-truncate-sentence](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1816-truncate-sentence) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
