@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-categorize-box-according-to-criteria](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2525-categorize-box-according-to-criteria) |
 | [2544-alternating-digit-sum](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2544-alternating-digit-sum) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
+| [2651-calculate-delayed-arrival-time](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [2928-distribute-candies-among-children-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2928-distribute-candies-among-children-i) |
