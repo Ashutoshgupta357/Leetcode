@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1406-stone-game-iii) |
 | [1437-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1437-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1512-number-of-good-pairs](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1572-matrix-diagonal-sum](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -516,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0856-score-of-parentheses](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1544-make-the-string-great) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -611,4 +613,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
