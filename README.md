@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3248-snake-in-matrix](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3248-snake-in-matrix) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3379-transformed-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3379-transformed-array) |
+| [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3467-transform-array-by-parity](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3467-transform-array-by-parity) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
