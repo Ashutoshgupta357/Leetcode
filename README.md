@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0319-bulb-switcher](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0319-bulb-switcher) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0728-self-dividing-numbers](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0728-self-dividing-numbers) |
 | [0836-rectangle-overlap](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0836-rectangle-overlap) |
 | [0989-add-to-array-form-of-integer](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0989-add-to-array-form-of-integer) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0434-number-of-segments-in-a-string](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0482-license-key-formatting](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0520-detect-capital) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0191-number-of-1-bits) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0645-set-mismatch) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2351-first-letter-to-appear-twice) |
