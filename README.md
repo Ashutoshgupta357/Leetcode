@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0925-long-pressed-name) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [1021-remove-outermost-parentheses](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1021-remove-outermost-parentheses) |
+| [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1374-generate-a-string-with-characters-that-have-odd-counts) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1544-make-the-string-great](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1544-make-the-string-great) |
 | [1556-thousand-separator](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1556-thousand-separator) |
