@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0455-assign-cookies) |
 | [0566-reshape-the-matrix](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0643-maximum-average-subarray-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0645-set-mismatch) |
 | [0804-unique-morse-code-words](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0806-number-of-lines-to-write-string) |
@@ -664,4 +665,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
