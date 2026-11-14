@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2678-number-of-senior-citizens](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2678-number-of-senior-citizens) |
 | [2706-buy-two-chocolates](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2706-buy-two-chocolates) |
+| [2747-count-zero-request-servers](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -361,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2716-minimize-string-length](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2716-minimize-string-length) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2729-check-if-the-number-is-fascinating) |
+| [2747-count-zero-request-servers](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2965-find-missing-and-repeated-values](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-number-of-distinct-averages](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2706-buy-two-chocolates](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2706-buy-two-chocolates) |
+| [2747-count-zero-request-servers](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -674,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [2747-count-zero-request-servers](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2747-count-zero-request-servers) |
 ## Graph Theory
 |  |
 | ------- |
