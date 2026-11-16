@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0125-valid-palindrome) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0392-is-subsequence) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0075-sort-colors](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0455-assign-cookies) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0645-set-mismatch) |
@@ -692,4 +695,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
