@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0455-assign-cookies) |
 | [0566-reshape-the-matrix](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0566-reshape-the-matrix) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -686,4 +688,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
