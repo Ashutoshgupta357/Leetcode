@@ -603,16 +603,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [3319-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Ashutoshgupta357/Leetcode/tree/master/3319-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Prefix Sum
@@ -659,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0301-remove-invalid-parentheses) |
 ## Memoization
 |  |
