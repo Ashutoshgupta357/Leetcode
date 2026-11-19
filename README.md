@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2496-maximum-value-of-a-string-in-an-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2496-maximum-value-of-a-string-in-an-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2643-row-with-maximum-ones](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2643-row-with-maximum-ones) |
 | [2678-number-of-senior-citizens](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2678-number-of-senior-citizens) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2706-buy-two-chocolates](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2747-count-zero-request-servers](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2747-count-zero-request-servers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 | [2706-buy-two-chocolates](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2706-buy-two-chocolates) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
