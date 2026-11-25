@@ -231,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1816-truncate-sentence) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [1929-concatenation-of-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -314,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/Ashutoshgupta357/Leetcode/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1260-shift-2d-grid) |
+| [1929-concatenation-of-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Ashutoshgupta357/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
